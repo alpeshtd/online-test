@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+}
+
+.btn {
+    padding: 10px 5px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    min-width: 60px;
+}
+
+.btn.success {
+    background-color: green;
+}
+
+.btn.error {
+background-color: salmon;
+}
+
+.btn:hover {
+    opacity: 0.5;
+}
+
+.question {
+    margin-bottom: 20px;
+}
